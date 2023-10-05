@@ -1,1 +1,3 @@
-# PROJECT_MANAGEMENT_APP
+# PROJECT_MANAGEMENT_TOOL
+This is a task_tracker which manages the status of users and their tasks and can be updated with current time and date features which comes in handy while tracking the task progress.
+This is Task#2 which is a PROJECT_MANAGEMENT_TOOL assinged by BHARATINTERN under their FULLSTACKDEVELOPMENT Internship program....
