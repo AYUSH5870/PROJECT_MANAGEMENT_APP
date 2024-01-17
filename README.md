@@ -1,2 +1,2 @@
-# Task Management App/ToDo App 
+# ToDo App 
 This is a task_tracker which manages the status of users and their tasks and can be updated with current time and date features which comes in handy while tracking the task progress....
